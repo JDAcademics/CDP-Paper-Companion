@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Capstone Design]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Capstone Design</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 28 Sep 2026 14:23:58 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 28 Sep 2026 14:23:47 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[MOC - Better Roads for the Community]]></title><description><![CDATA[
+Project: Proposed Roadway Improvement Design for the Phase 1 Farm-to-Market Road in Barangay San Isidro, Catanauan, Quezon
+Focus Segment: 850 meters (Sta. 0+000 to Sta. 0+850) <a data-href="LN - Chapter 1" href="10-literature-notes/ln-chapter-1.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 1</a> — Introduction, Hazard Assessment, Community Needs, Complex Engineering Problem, Objectives, Scope, Definitions
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a> — Literature Review, Prior Art Review, Conclusion, Conceptual &amp; Operational Frameworks <br><a data-href="Z - Farm-to-Market Roads as Rural Lifelines" href="20-zettels/z-farm-to-market-roads-as-rural-lifelines.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Farm-to-Market Roads as Rural Lifelines</a>
+<br><a data-href="Z - Transportation Accessibility Enables Community Development" href="20-zettels/z-transportation-accessibility-enables-community-development.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Transportation Accessibility Enables Community Development</a> <br><a data-href="Z - Roadway Safety as a Systems Problem" href="20-zettels/z-roadway-safety-as-a-systems-problem.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety as a Systems Problem</a>
+<br><a data-href="Z - Roadway Safety Devices Save Lives" href="20-zettels/z-roadway-safety-devices-save-lives.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety Devices Save Lives</a>
+<br><a data-href="Z - Roadway Geometry Influences Safety and Drainage" href="20-zettels/z-roadway-geometry-influences-safety-and-drainage.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Geometry Influences Safety and Drainage</a> <br><a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+<br><a data-href="Z - Pavement Structural Design vs Condition Assessment" href="20-zettels/z-pavement-structural-design-vs-condition-assessment.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Structural Design vs Condition Assessment</a> <br><a data-href="Z - Traffic Characteristics Drive Design Decisions" href="20-zettels/z-traffic-characteristics-drive-design-decisions.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Traffic Characteristics Drive Design Decisions</a> <br><a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a> <br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="Z - Community Needs Analysis as Assessment Tool" href="20-zettels/z-community-needs-analysis-as-assessment-tool.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Community Needs Analysis as Assessment Tool</a>
+<br><a data-href="Z - Input-Process-Output Framework" href="20-zettels/z-input-process-output-framework.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Input-Process-Output Framework</a>
+<br><a data-href="Z - Multi-Hazard Assessment in Road Design" href="20-zettels/z-multi-hazard-assessment-in-road-design.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Multi-Hazard Assessment in Road Design</a>
+<br><a data-href="Z - Complex Engineering Problems (ABET)" href="20-zettels/z-complex-engineering-problems-(abet).html" class="internal-link" target="_self" rel="noopener nofollow">Z - Complex Engineering Problems (ABET)</a> <br><a data-href="Insight - Infrastructure Deficiencies Compound" href="30-insights/insight-infrastructure-deficiencies-compound.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Infrastructure Deficiencies Compound</a>
+<br><a data-href="Insight - Proactive vs Reactive Maintenance" href="30-insights/insight-proactive-vs-reactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Proactive vs Reactive Maintenance</a>
+<br><a data-href="Insight - Safety and Drainage Are Interconnected" href="30-insights/insight-safety-and-drainage-are-interconnected.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Safety and Drainage Are Interconnected</a>
+<br><a data-href="Insight - Community Voice Shapes Engineering Solutions" href="30-insights/insight-community-voice-shapes-engineering-solutions.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Community Voice Shapes Engineering Solutions</a>
+<br><a data-href="Insight - Site-Specific vs Uniform Treatments" href="30-insights/insight-site-specific-vs-uniform-treatments.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Site-Specific vs Uniform Treatments</a> <br><a data-href="Question - How to Prioritize Interventions" href="40-questions/question-how-to-prioritize-interventions.html" class="internal-link" target="_self" rel="noopener nofollow">Question - How to Prioritize Interventions</a>
+<br><a data-href="Question - Sustainability of Proposed Design" href="40-questions/question-sustainability-of-proposed-design.html" class="internal-link" target="_self" rel="noopener nofollow">Question - Sustainability of Proposed Design</a>
+<br><a data-href="Question - Balancing Scope and Detail in 850m Segment" href="40-questions/question-balancing-scope-and-detail-in-850m-segment.html" class="internal-link" target="_self" rel="noopener nofollow">Question - Balancing Scope and Detail in 850m Segment</a> Population: 4,316 residents | 1,084 households | 1,173 families
+Road Length: 12.36 km (Phase 1 FMR); detailed design on 850 m
+CNA Respondents: 371 (Cochran's formula, 95% confidence)
+Existing Pavement: 150-mm PCCP
+Proposed Pavement: 200-mm PCCP (to be verified by structural analysis) <br><a data-href="Z - Input-Process-Output Framework" href="20-zettels/z-input-process-output-framework.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Input-Process-Output Framework</a>
+<br><a data-href="Z - Community Needs Analysis as Assessment Tool" href="20-zettels/z-community-needs-analysis-as-assessment-tool.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Community Needs Analysis as Assessment Tool</a>
+<br><a data-href="Z - Multi-Hazard Assessment in Road Design" href="20-zettels/z-multi-hazard-assessment-in-road-design.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Multi-Hazard Assessment in Road Design</a>
+AASHTO (2018) — Geometric Design Standards
+PIARC (2019) — Road Safety Manual
+DPWH Highway Drainage Design Manual
+DA-BAFE (2024) — FMR Network Development Plan
+ABET — Complex Engineering Problem criteria
+]]></description><link>00-moc-chapter-1-&amp;-2.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/00 - MOC - Chapter 1 &amp; 2.md</guid><pubDate>Mon, 28 Sep 2026 14:23:17 GMT</pubDate></item><item><title><![CDATA[Question - Sustainability of Proposed Design]]></title><description><![CDATA[How will the proposed Comprehensive Roadway Improvement Design be sustained over the long term? What maintenance and monitoring mechanisms are needed to preserve the improvements?The literature emphasizes:
+Preventive maintenance extends infrastructure life
+Proactive approaches more cost-effective than reactive
+Community involvement important for sustainability
+Infrastructure should be resilient to climate variability
+Li et al. (2024): Economic, management, policy, public-participation, terrain-related constraints affect rural-road sustainability
+Han et al. (2023): Long-term maintenance planning under limited budgets
+However, the study scope:
+Excludes actual construction
+Excludes post-construction evaluation
+Excludes monitoring
+Limited to design preparation
+Excludes funding allocation, procurement, maintenance-fund management Institutional capacity — Can the LGU/Barangay maintain the improvements?
+Funding — What resources are available for ongoing maintenance?
+Community ownership — How can residents participate in preservation?
+Climate resilience — Will the design perform under extreme weather (high flood susceptibility)?
+Asset management — Is there a system for tracking condition over time?
+Hazard monitoring — How will updated hazard maps and advisories be integrated? Develop maintenance plan as part of design deliverables
+Build local capacity for routine maintenance
+Establish monitoring indicators
+Integrate with LGU infrastructure planning
+Consider climate projections in design assumptions
+Regular inspection and maintenance of drainage facilities
+Monitor updated hazard maps and advisories <a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+<br><a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="Z - Multi-Hazard Assessment in Road Design" href="20-zettels/z-multi-hazard-assessment-in-road-design.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Multi-Hazard Assessment in Road Design</a>
+<br><a data-href="Insight - Proactive vs Reactive Maintenance" href="30-insights/insight-proactive-vs-reactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Proactive vs Reactive Maintenance</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>40-questions/question-sustainability-of-proposed-design.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/40 Questions/Question - Sustainability of Proposed Design.md</guid><pubDate>Mon, 28 Sep 2026 14:23:10 GMT</pubDate></item><item><title><![CDATA[Question - How to Prioritize Interventions]]></title><description><![CDATA[With multiple identified deficiencies (pavement, drainage, lighting, signage, barriers, geometry), how should interventions be prioritized when resources are limited and the segment is only 850 meters?The CNA revealed:
+8 major concern categories
+Varying severity levels (91.9% to 41.0%)
+Limited resources for implementation
+Community expectations for comprehensive improvement
+9 specific community-identified needs
+High flood susceptibility requiring drainage attention Severity of concern — Pavement damage reported by 91.9%
+Safety impact — Which deficiencies contribute most to crash risk?
+Cost-effectiveness — Which interventions provide greatest benefit per peso?
+Dependency — Drainage improvements may need to precede pavement rehabilitation
+Community priority — What does the community value most?
+Technical feasibility — Site constraints, constructability
+Hazard exposure — High flood susceptibility may prioritize drainage
+Structural requirements — Pavement thickness verification needed Risk-based prioritization: Focus on highest crash-risk locations
+Worst-first: Address most deteriorated sections first
+Preventive: Invest in low-cost prevention to avoid costly rehabilitation
+Integrated: Bundle interventions for efficiency
+Multi-Criteria Decision Analysis (MCDA): Weigh technical, economic, social factors
+Life-cycle costing: Consider long-term costs and benefits <a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="Insight - Infrastructure Deficiencies Compound" href="30-insights/insight-infrastructure-deficiencies-compound.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Infrastructure Deficiencies Compound</a>
+<br><a data-href="Insight - Site-Specific vs Uniform Treatments" href="30-insights/insight-site-specific-vs-uniform-treatments.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Site-Specific vs Uniform Treatments</a>
+<br><a data-href="Z - Community Needs Analysis as Assessment Tool" href="20-zettels/z-community-needs-analysis-as-assessment-tool.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Community Needs Analysis as Assessment Tool</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>40-questions/question-how-to-prioritize-interventions.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/40 Questions/Question - How to Prioritize Interventions.md</guid><pubDate>Mon, 28 Sep 2026 14:23:01 GMT</pubDate></item><item><title><![CDATA[Question - Balancing Scope and Detail in 850m Segment]]></title><description><![CDATA[How can an 850-meter segment adequately represent the conditions and needs of the entire 12.36-kilometer Phase 1 Farm-to-Market Road? What are the implications of this scope limitation for the generalizability of the design?
+Total road length: 12.36 km
+Detailed design segment: 850 m (Sta. 0+000 to Sta. 0+850)
+Selected segment contains multiple roadway-related concerns and infrastructure deficiencies
+Segment chosen based on CNA, hazard identification, field observations, stakeholder consultations, engineering assessments
+12.36-km road considered as broader study context for understanding connectivity, access, surrounding community, movement of residents and goods Representativeness — Does the 850-m segment capture the range of conditions along the full road?
+Generalizability — Can design solutions be extrapolated to other segments?
+Resource constraints — Academic capstone scope limitations
+Data availability — Historical project documentation, geotechnical data
+Community needs — Do the 371 respondents represent users of the full road or primarily the selected segment?
+Hazard exposure — Does the selected segment experience the same hazards (flood, landslide) as other portions?
+Traffic characteristics — Are traffic volumes and vehicle classifications similar along the full road? Acknowledge scope limitation explicitly in design documentation
+Identify design principles that can be applied to other segments
+Recommend further assessment of remaining segments
+Use selected segment as pilot/demonstration project
+Document assumptions and applicability limits <a data-href="Z - Community Needs Analysis as Assessment Tool" href="20-zettels/z-community-needs-analysis-as-assessment-tool.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Community Needs Analysis as Assessment Tool</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="LN - Chapter 1" href="10-literature-notes/ln-chapter-1.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 1</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>40-questions/question-balancing-scope-and-detail-in-850m-segment.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/40 Questions/Question - Balancing Scope and Detail in 850m Segment.md</guid><pubDate>Mon, 28 Sep 2026 14:22:58 GMT</pubDate></item><item><title><![CDATA[Insight - Site-Specific vs Uniform Treatments]]></title><description><![CDATA[Not all roadway sections require the same treatment. Effective roadway improvement requires site-specific assessment, prioritization based on actual conditions, and selection of appropriate interventions — rather than applying uniform treatments throughout an entire segment.
+Han et al. (2023): Rural-road maintenance should prioritize sections according to condition and expected performance rather than applying identical treatments
+Hasan et al. (2022): Rural-road planning and prioritization methodology using physical, economic, social criteria
+Argoty Burbano (2023): Technical-economic alternatives for rural-road rehabilitation
+Dhakal &amp; Al-Kaisy (2024): Measurable roadway characteristics used to identify locations requiring safety improvements
+This study's approach: The 850-m segment will not automatically be assigned one rehabilitation treatment throughout its entire length
+Pavement: Identified deficiencies and structural requirements used to determine appropriate repair, rehabilitation, strengthening, or reconstruction measures where warranted
+Safety devices: Site-specific and warranted; continuous lighting or uniform installation not automatically assumed
+Geometry: Localized interventions where deficiencies identified; complete realignment not presumed The comprehensive approach is appropriate because the subject roadway is already constructed. The purpose is to determine appropriate improvements based on present physical and operational conditions — not to reproduce the historical project design.
+Interventions will be prioritized according to:
+Identified deficiencies
+Technical requirements
+Site conditions
+Available resources
+Constructability
+Maintenance considerations
+Economic feasibility <a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="Z - Pavement Structural Design vs Condition Assessment" href="20-zettels/z-pavement-structural-design-vs-condition-assessment.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Structural Design vs Condition Assessment</a>
+<br><a data-href="Z - Roadway Safety Devices Save Lives" href="20-zettels/z-roadway-safety-devices-save-lives.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety Devices Save Lives</a>
+<br><a data-href="Question - How to Prioritize Interventions" href="40-questions/question-how-to-prioritize-interventions.html" class="internal-link" target="_self" rel="noopener nofollow">Question - How to Prioritize Interventions</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>30-insights/insight-site-specific-vs-uniform-treatments.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/30 Insights/Insight - Site-Specific vs Uniform Treatments.md</guid><pubDate>Mon, 28 Sep 2026 14:22:54 GMT</pubDate></item><item><title><![CDATA[Insight - Safety and Drainage Are Interconnected]]></title><description><![CDATA[Roadway safety and drainage performance are not separate concerns — they are deeply interconnected. Water on the roadway reduces tire friction, impairs vehicle control, and accelerates pavement deterioration, all of which increase safety risks. Conversely, proper drainage protects pavement integrity and maintains safe driving conditions.
+Water accumulation reduces tire-pavement friction
+Impaired vehicle control during heavy rainfall
+PIARC (2019): Inadequate runoff control increases operational risks
+Jo &amp; Kim (2024): Roadway slope and rainfall influence runoff behavior Moisture infiltration weakens pavement layers
+Accelerates cracking, potholes, surface deformation
+Deteriorated pavement reduces ride quality, affects vehicle stability
+Iskandar et al.: Relationship between drainage condition and pavement performance Cross slopes, superelevation, longitudinal grades facilitate runoff
+Inadequate geometry → water accumulation → safety risks
+Geometry should be evaluated as part of integrated system High flood susceptibility (1–2 m, &gt;3 days)
+May cause road inundation, pavement deterioration, temporary road closures
+The proposed design integrates:
+Roadway safety improvements
+Drainage system design
+This is not coincidental — it reflects the understanding that safety and drainage must be addressed together to achieve sustainable outcomes.
+<a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Z - Roadway Geometry Influences Safety and Drainage" href="20-zettels/z-roadway-geometry-influences-safety-and-drainage.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Geometry Influences Safety and Drainage</a>
+<br><a data-href="Z - Roadway Safety as a Systems Problem" href="20-zettels/z-roadway-safety-as-a-systems-problem.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety as a Systems Problem</a>
+<br><a data-href="Z - Multi-Hazard Assessment in Road Design" href="20-zettels/z-multi-hazard-assessment-in-road-design.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Multi-Hazard Assessment in Road Design</a>
+<br><a data-href="Insight - Infrastructure Deficiencies Compound" href="30-insights/insight-infrastructure-deficiencies-compound.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Infrastructure Deficiencies Compound</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>30-insights/insight-safety-and-drainage-are-interconnected.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/30 Insights/Insight - Safety and Drainage Are Interconnected.md</guid><pubDate>Mon, 28 Sep 2026 14:22:52 GMT</pubDate></item><item><title><![CDATA[Insight - Proactive vs Reactive Maintenance]]></title><description><![CDATA[Preventive maintenance is not just cheaper — it is fundamentally more effective than reactive rehabilitation. Agencies that prioritize timely, proactive interventions achieve better pavement performance, longer service lives, and lower lifecycle costs.
+Basnet et al. (2023): Data-driven pavement management enables timely maintenance before conditions deteriorate critically
+Ji et al. (2023): Preventive maintenance programs achieve better performance and longer service lives vs. corrective rehabilitation
+Han et al. (2023): Long-term maintenance planning under limited budgets; prioritize sections by condition and expected performance
+DPWH (2006): Emphasizes regular maintenance and timely rehabilitation
+AASHTO (2018): Pavement condition key in design, maintenance planning, asset management
+The proposed design includes:
+Pavement improvement measures
+Drainage system design (to prevent water-related deterioration)
+Recommendations for implementation
+By addressing deficiencies now, the project aims to:
+Avoid more costly future rehabilitation
+Extend roadway service life
+Improve safety outcomes
+Maximize infrastructure investment <a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+<br><a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Insight - Infrastructure Deficiencies Compound" href="30-insights/insight-infrastructure-deficiencies-compound.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Infrastructure Deficiencies Compound</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>30-insights/insight-proactive-vs-reactive-maintenance.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/30 Insights/Insight - Proactive vs Reactive Maintenance.md</guid><pubDate>Mon, 28 Sep 2026 14:22:49 GMT</pubDate></item><item><title><![CDATA[Insight - Infrastructure Deficiencies Compound]]></title><description><![CDATA[Roadway infrastructure deficiencies do not exist in isolation — they compound and reinforce each other. Pavement deterioration accelerates when drainage is inadequate. Safety risks increase when geometry, lighting, and signage are all deficient. Addressing one issue without others yields limited long-term benefit.The CNA revealed multiple, simultaneous concerns:
+91.9% reported pavement damage
+77.1% reported no proper drainage system
+70.9% reported limited lighting
+77.9% reported lack of signage
+60.9% reported absence of crash barriers
+59.0% reported unsafe curves/superelevation
+These are not independent problems — they interact:
+Water accumulation (41.0%) → accelerates pavement deterioration
+Poor geometry (59.0%) → increases crash risk, especially with limited lighting
+Lack of barriers (60.9%) → increases severity when crashes occur
+Drainage deficiencies (52.0%) → pavement deterioration → safety risks Integrated solutions addressing multiple deficiencies simultaneously are more effective than isolated interventions.
+This validates the study's approach of developing a Comprehensive Roadway Improvement Design rather than addressing issues piecemeal.
+<a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+<br><a data-href="Insight - Safety and Drainage Are Interconnected" href="30-insights/insight-safety-and-drainage-are-interconnected.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Safety and Drainage Are Interconnected</a>
+<br><a data-href="Insight - Site-Specific vs Uniform Treatments" href="30-insights/insight-site-specific-vs-uniform-treatments.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Site-Specific vs Uniform Treatments</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>30-insights/insight-infrastructure-deficiencies-compound.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/30 Insights/Insight - Infrastructure Deficiencies Compound.md</guid><pubDate>Mon, 28 Sep 2026 14:22:47 GMT</pubDate></item><item><title><![CDATA[Insight - Community Voice Shapes Engineering Solutions]]></title><description><![CDATA[Engineering solutions are more effective and sustainable when they are informed by the community they serve. The Community Needs Analysis (CNA) revealed concerns that might not have been prioritized through technical assessment alone — and provided justification for a comprehensive, multi-faceted design approach.The CNA (371 respondents) identified:
+Pavement damage (91.9%) — highest priority
+Unsafe sections (79.8%)
+Lack of signage (77.9%)
+Limited lighting (70.9%)
+No crash barriers (60.9%)
+Unsafe curves (59.0%)
+Inadequate drainage (52.0%)
+Water accumulation (41.0%)
+No proper drainage system (77.1%)
+Road worsens during rainy season (43.4%)
+Perceived road as slightly unsafe (48.5%)
+These findings:
+Shaped the scope of the design
+Prioritized interventions
+Provided justification for integrated approach
+Supplemented limited official accident records
+Identified 9 specific community needs The CNA was not just a data collection exercise — it was a design driver. The community's voice directly shaped the engineering solution.
+This validates the study's use of:
+Stakeholder consultations
+Surveys (Cochran's formula)
+Interviews
+Field observations
+Hazard identification <a data-href="Z - Community Needs Analysis as Assessment Tool" href="20-zettels/z-community-needs-analysis-as-assessment-tool.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Community Needs Analysis as Assessment Tool</a>
+<br><a data-href="Z - Input-Process-Output Framework" href="20-zettels/z-input-process-output-framework.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Input-Process-Output Framework</a>
+<br><a data-href="Insight - Infrastructure Deficiencies Compound" href="30-insights/insight-infrastructure-deficiencies-compound.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Infrastructure Deficiencies Compound</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>30-insights/insight-community-voice-shapes-engineering-solutions.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/30 Insights/Insight - Community Voice Shapes Engineering Solutions.md</guid><pubDate>Mon, 28 Sep 2026 14:22:44 GMT</pubDate></item><item><title><![CDATA[Z - Transportation Accessibility Enables Community Development]]></title><description><![CDATA[Transportation accessibility — the ability to reach destinations, services, and opportunities — is a key indicator of transportation effectiveness and a driver of social inclusion, economic participation, and overall community development. In rural areas, roads often provide the primary connection to markets, employment, healthcare, and education.Accessibility reflects how well infrastructure enables movement and supports participation in economic and social activities.Accessibility considers the relationship between transportation systems and the opportunities they provide:
+Economic participation
+Social inclusion
+Service accessibility (education, healthcare, government)
+Community development
+Agricultural commercialization Communities often depend on limited transportation routes
+Accessibility particularly important for accessing markets, schools, healthcare, employment
+FMRs designed not only for agricultural transport but also for access to essential services Vila (2019): FMR pavement condition affected farmers' travel time, travel speed, yield, net sales, post-harvest losses
+Kamaludin &amp; Qibthiyyah (2022): Village-road quality and accessibility improvements associated with rural economic transformation in Indonesia
+Rong &amp; Ouyang (2024): Rural road accessibility improvements increased healthcare-seeking at higher-level hospitals in China
+Mckonnen &amp; Alamirew (2023): Road access associated with greater participation in agricultural markets in Ethiopia
+Geurs &amp; van Wee (2004): Accessibility should be comprehensive measure of transportation performance
+Lucas (2012): Transportation accessibility influences social inclusion
+Porter (2014): Improved transportation enhances access to education, healthcare, economic opportunities
+Starkey &amp; Hine (2014): Reliable rural roads reduce travel difficulties, improve connectivity
+World Bank (2022): Rural road investments improve connectivity, reduce poverty, expand access
+ADB (2021): Transportation strengthens regional integration, agricultural development, community resilience
+DA-BAFE (2024): FMRs strengthen connectivity and improve access to education, healthcare, public services
+AASHTO (2018): Design transportation facilities to safely and efficiently accommodate user needs
+PIARC (2019): Connectivity and accessibility important considerations in transportation planning "Roadway improvements can generate benefits that extend beyond transportation efficiency by strengthening connections between people, services, and opportunities." Accessibility treated as outcome of adequately functioning roadway, not separate facility
+Improvements to physical roadway conditions should contribute to safer and more reliable movement for residents, farmers, students, motorists, and other road users
+Consider how pavement condition, roadway width, drainage, geometry, safety, lighting, and traffic-control provisions affect reliable mobility <a data-href="Z - Farm-to-Market Roads as Rural Lifelines" href="20-zettels/z-farm-to-market-roads-as-rural-lifelines.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Farm-to-Market Roads as Rural Lifelines</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-transportation-accessibility-enables-community-development.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Transportation Accessibility Enables Community Development.md</guid><pubDate>Mon, 28 Sep 2026 14:22:40 GMT</pubDate></item><item><title><![CDATA[Z - Traffic Characteristics Drive Design Decisions]]></title><description><![CDATA[Traffic volume alone does not fully represent roadway demand. Different vehicle classes have different operational and structural effects. Classified traffic data — particularly heavy-vehicle and axle-load information — is essential for both pavement structural design and geometric/safety evaluation.
+Heavy vehicles impose substantially greater pavement loading than passenger vehicles
+Total traffic volume may not adequately represent pavement demand
+Vehicle type affects operating-speed behavior and geometric consistency
+Traffic composition affects roadway safety and operations Traffic volume (AADT)
+Vehicle classification (by type)
+Vehicle weight / axle-load information
+Time-of-day variation
+Peak vs. off-peak periods Pavement structural design: convert traffic and axle-load data into design inputs
+Geometric design: consider heavy vehicles in speed behavior and consistency
+Safety analysis: consider heavy-goods-vehicle proportion and traffic signs Fruelda et al. (2025): Classified traffic information useful for evaluating rural roadway performance; motorcycles/tricycles large proportion; differences between peak/off-peak
+Zhao et al. (2022): Incorporating actual truck loading characteristics improves pavement-performance analysis
+Rys &amp; Burnos (2022): Axle-load spectra for pavement design; total volume alone may not adequately represent demand
+Ordaz et al. (2024): Structural deterioration of low-volume pavement under increased traffic loading
+Popoola et al. (2018): Traffic volume, heavy-goods-vehicle proportion, roadway geometry, shoulder conditions, traffic signs associated with roadway safety
+Shallam et al. (2022): Vehicle type affects operating-speed behavior and geometric consistency
+AASHTO (2018): Traffic demand and vehicle characteristics as important inputs
+FHWA: Distinguishes volume, classification, and weight information Collect classified traffic data rather than total vehicle count
+Characterize major vehicle groups
+Give particular attention to heavy vehicles for pavement structural design
+Consider variation by time of day and survey period
+Use collected data to describe current traffic characteristics
+Avoid interpreting limited survey period as complete annual traffic estimate unless methodology supports it <a data-href="Z - Pavement Structural Design vs Condition Assessment" href="20-zettels/z-pavement-structural-design-vs-condition-assessment.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Structural Design vs Condition Assessment</a>
+<br><a data-href="Z - Roadway Geometry Influences Safety and Drainage" href="20-zettels/z-roadway-geometry-influences-safety-and-drainage.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Geometry Influences Safety and Drainage</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-traffic-characteristics-drive-design-decisions.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Traffic Characteristics Drive Design Decisions.md</guid><pubDate>Mon, 28 Sep 2026 14:22:37 GMT</pubDate></item><item><title><![CDATA[Z - Roadway Safety Devices Save Lives]]></title><description><![CDATA[Traffic signs, pavement markings, roadway lighting, delineation devices, and roadside barriers provide complementary functions — guiding road users, improving visibility, communicating hazards, and reducing the consequences of roadway departure. Treatments should be site-specific and warranted, not uniformly applied.
+Communicate regulations, warnings, directions
+Influence driver awareness, decision-making, compliance
+Curves require particular attention — drivers need sufficient information and guidance
+Clear, understandable signs reduce uncertainty Improves visibility during nighttime and adverse weather
+Allows earlier detection of pedestrians, obstacles, hazards
+Enhances hazard recognition and reaction time
+Lit vs. unlit road environments show differences in injury-accident risk Chevron alignment markers
+Roadside delineators
+Reflective pavement studs
+Active road studs can complement or substitute continuous lighting in rural environments Guardrails, crash barriers, protective features
+Prevent vehicles from striking hazardous objects
+Reduce severity of roadway departure incidents
+Essential where steep embankments, waterways, fixed objects exist Kučina et al. (2023): Curves important locations for safety treatments
+Elvik (2009): Road-lighting effects using accident data; differences in injury-accident risk between lit and unlit roads
+Active road studs research: Reflective/active delineation improves driver confidence and guidance at night
+Bermudo &amp; Rabacal: Philippine study — visible, appropriately placed, properly maintained traffic signs support road safety
+Robielos &amp; Lin (2022): Higher traffic sign comprehension among Filipino road users → safer driving behavior
+Calderón Ramírez et al. (2023): Inadequate signage among most frequent deficiencies in Road Safety Audits
+Bullough et al. (2013): Roadway lighting improvements enhance visual performance and nighttime safety
+Plainis et al. (2020): Improved illumination enhances hazard recognition and reaction time
+PIARC (2019): Roadside safety measures essential where hazards increase crash severity
+AASHTO (2018): Recommends appropriate roadside protection measures
+WHO (2023): Traffic control devices, visibility, protective infrastructure reduce injuries and fatalities These features serve not only as protective infrastructure but also as important risk-mitigation measures within roadway design. Site-specific and warranted safety measures
+May include: Regulatory and warning signs
+Pavement markings
+Chevron alignment markers
+Roadside delineators
+Reflective pavement studs
+Roadside barriers
+Localized lighting Continuous lighting or uniform installation of all devices throughout 850-m segment not automatically assumed
+Treatments based on identified hazards, nighttime visibility requirements, geometric conditions, roadside risks, applicable standards <a data-href="Z - Roadway Safety as a Systems Problem" href="20-zettels/z-roadway-safety-as-a-systems-problem.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety as a Systems Problem</a>
+<br><a data-href="Z - Roadway Geometry Influences Safety and Drainage" href="20-zettels/z-roadway-geometry-influences-safety-and-drainage.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Geometry Influences Safety and Drainage</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-roadway-safety-devices-save-lives.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Roadway Safety Devices Save Lives.md</guid><pubDate>Mon, 28 Sep 2026 14:22:35 GMT</pubDate></item><item><title><![CDATA[Z - Roadway Safety as a Systems Problem]]></title><description><![CDATA[Roadway crashes result from the interaction of multiple factors — roadway design, human behavior, vehicle characteristics, and environmental conditions — requiring a systems-based approach rather than focusing solely on individual driver behavior. For existing roads, safety assessment is particularly important because deficiencies may exist even when comprehensive crash records are unavailable.Modern road safety principles have evolved:
+Traditional approach: Focus on individual driver behavior and education
+Contemporary approach: Systems-based perspective considering how roadway environments can be designed to reduce risks and mitigate crash consequences
+This shift emphasizes:
+Incorporating safety into roadway planning, design, operation, and maintenance
+Identifying hazardous roadway features before crashes occur
+Implementing proactive engineering interventions
+Using measurable roadway characteristics to identify locations requiring safety improvements WHO (2023): Road traffic injuries remain leading cause of death worldwide; infrastructure improvements can significantly reduce crash risks
+Mcllroy et al. (2022): Evolution from "thinking humans" to systems thinking in road safety
+Montella (2005): Systematic safety reviews identify hazardous features and guide corrective measures before crashes
+Calderón Ramírez et al. (2023): Road Safety Audits valuable for proactive identification of safety deficiencies
+Dhakal &amp; Al-Kaisy (2024): Approach for identifying safety-improvement locations without extensive crash-history data
+Khan et al. (2023): Geometric design consistency and run-off-road crashes on two-lane rural highways
+Shallam et al. (2022): Vehicle type affects operating-speed behavior and geometric consistency
+Goyani et al. (2024): Geometric consistency associated with crash outcomes
+Motalib et al. (2024): Philippine study — geometric inconsistencies on Sagonsongan Diversion Road, Marawi City
+PIARC (2019): Emphasizes roadway geometry, traffic control devices, roadside safety features, visibility, drainage
+AASHTO (2018): Design facilities to accommodate traffic while minimizing hazards Safety must be integrated into every stage: planning → design → operation → maintenance
+Proactive assessment (safety reviews, audits) more effective than reactive crash analysis
+Multiple countermeasures needed: engineering, enforcement, education
+Roadway environment can be designed to forgive human error
+Safety assessment should consider pavement, geometry, traffic, sight distance, signs, markings, lighting, roadside hazards
+Treatments should be site-specific and warranted, not uniform throughout <a data-href="Z - Roadway Safety Devices Save Lives" href="20-zettels/z-roadway-safety-devices-save-lives.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety Devices Save Lives</a>
+<br><a data-href="Z - Roadway Geometry Influences Safety and Drainage" href="20-zettels/z-roadway-geometry-influences-safety-and-drainage.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Geometry Influences Safety and Drainage</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-roadway-safety-as-a-systems-problem.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Roadway Safety as a Systems Problem.md</guid><pubDate>Mon, 28 Sep 2026 14:22:33 GMT</pubDate></item><item><title><![CDATA[Z - Roadway Geometry Influences Safety and Drainage]]></title><description><![CDATA[Roadway geometry — alignment, curves, grades, cross-sections, sight distance — is not merely a design consideration but a critical factor affecting roadway safety, accessibility, drainage efficiency, and long-term infrastructure performance. Geometric consistency influences driver expectancy and crash risk.
+Horizontal and vertical curves
+Curve radius
+Lane width and shoulders
+Grades (longitudinal slopes)
+Cross slopes and superelevation
+Sight distance
+Alignment consistency
+Roadway width Inconsistencies between geometry and driver expectations increase operational errors
+Poor alignment reduces visibility and increases crash risks
+Appropriate lane widths and grades improve maneuverability
+Vehicle type affects speed behavior and geometric consistency
+Geometric consistency associated with crash outcomes Cross slopes, superelevation, and longitudinal grades facilitate surface runoff movement
+Inadequate geometry → water accumulation → safety risks and pavement distress
+Geometry should be evaluated as part of integrated roadway system Motalib et al. (2024): Philippine study — Sagonsongan Diversion Road, Marawi City; identified geometric inconsistencies with safety requirements
+Khan et al. (2023): Geometric design consistency and run-off-road crashes on two-lane rural highways
+Shallam et al. (2022): Vehicle type affects operating-speed behavior and geometric consistency
+Goyani et al. (2024): Geometric consistency associated with crash outcomes
+Popoola et al. (2018): Curve radius, lane width, shoulder characteristics, access roads, traffic volume, heavy-goods-vehicle proportion, traffic signs associated with safety
+Dhakal &amp; Al-Kaisy (2024): Traffic volume, geometric features, roadside characteristics for identifying safety-improvement locations
+Chen et al. (2022): Horizontal curve characteristics influence driver behavior and safety
+Montella (2005): Alignment, sight distance, cross-sectional design important factors
+PIARC (2019): Geometry should consider interaction between roadway, vehicle, and user expectations
+AASHTO (2018): Establishes criteria for alignment, lanes, shoulders, grades, sight distances, superelevation
+Jo &amp; Kim (2024): Roadway slope and rainfall influence runoff behavior "Roadway geometry should not be evaluated independently but as part of an integrated roadway system that includes pavement condition, drainage performance, and roadway safety features." Focus on critical locations within 850-m segment
+Evaluate existing horizontal/vertical alignment, roadway width, cross slope, superelevation, sight distance
+Do not presume complete realignment
+Localized interventions may include: Geometric correction
+Cross slope/superelevation improvement
+Sight-distance measures
+Curve warning signs
+Chevron alignment markers
+Pavement markings
+Roadside protection <a data-href="Z - Roadway Safety as a Systems Problem" href="20-zettels/z-roadway-safety-as-a-systems-problem.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety as a Systems Problem</a>
+<br><a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Z - Traffic Characteristics Drive Design Decisions" href="20-zettels/z-traffic-characteristics-drive-design-decisions.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Traffic Characteristics Drive Design Decisions</a>
+<br><a data-href="Insight - Safety and Drainage Are Interconnected" href="30-insights/insight-safety-and-drainage-are-interconnected.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Safety and Drainage Are Interconnected</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-roadway-geometry-influences-safety-and-drainage.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Roadway Geometry Influences Safety and Drainage.md</guid><pubDate>Mon, 28 Sep 2026 14:22:30 GMT</pubDate></item><item><title><![CDATA[Z - Pavement Structural Design vs Condition Assessment]]></title><description><![CDATA[Pavement structural design differs fundamentally from pavement-condition assessment. Condition assessment describes what exists; structural design determines whether the pavement can adequately carry expected traffic loads during its design period. For existing roads, rehabilitation decisions must integrate both.
+Observes visible distress: cracking, rutting, potholes, deformation
+Uses Pavement Condition Index (PCI) and similar tools
+Describes current state Determines whether pavement structure can carry expected traffic loads
+Considers: existing pavement structure, traffic loading, pavement distress, subgrade conditions, drainage, materials, expected future use
+Uses traffic and axle-load information converted into design inputs
+Applies applicable pavement-design procedures (e.g., AASHTO 1993, MDP 2017) Rehabilitation decisions should consider both
+Structural evaluation can be done through nondestructive testing (structural-response measurements)
+Different structural evaluation procedures can produce different rehabilitation requirements Philippine study on rehabilitation of concrete roads: Field trials at 5 sites (~9.5 km); developed rehabilitation guidance based on observed distress
+Muslimah, Subagio, &amp; Frazila (2023): AASHTO 1993 and MDP 2017 procedures produced different rehabilitation requirements for rigid pavement in Bandung, Indonesia
+Ordaz et al. (2024): Structural deterioration of low-volume pavement under increased traffic loading; reassess when loading conditions change
+Zhao et al. (2022), Rys &amp; Burnos (2022): Axle-load characteristics influence pavement deterioration
+Nondestructive pavement evaluation: Structural-response measurements for determining stiffness and capacity
+DPWH standards: Minimum pavement requirements; higher thicknesses should be verified through pavement-design analysis Existing pavement: 150-mm PCCP
+Proposed pavement: 200-mm PCCP (if retained in final design)
+Must be supported by structural pavement calculations
+Literature does not justify selecting 200 mm merely because traffic has increased
+Current traffic and loading information must be converted into appropriate design inputs and evaluated using applicable pavement-design method <a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+<br><a data-href="Z - Traffic Characteristics Drive Design Decisions" href="20-zettels/z-traffic-characteristics-drive-design-decisions.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Traffic Characteristics Drive Design Decisions</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-pavement-structural-design-vs-condition-assessment.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Pavement Structural Design vs Condition Assessment.md</guid><pubDate>Mon, 28 Sep 2026 14:22:27 GMT</pubDate></item><item><title><![CDATA[Z - Pavement Deterioration and Proactive Maintenance]]></title><description><![CDATA[Pavement deterioration is inevitable, but proactive maintenance is more cost-effective and effective than delayed corrective rehabilitation — preserving both infrastructure investment and roadway safety. Deterioration is influenced by multiple interconnected conditions, not visible distress alone.
+Cracking
+Rutting
+Potholes
+Surface deformation
+Material degradation Repeated traffic loading
+Environmental exposure
+Inadequate drainage
+Material characteristics
+Construction conditions
+Pavement age
+Shoulder condition
+Cross-drainage structures
+Pavement cross slope Reduced ride quality
+Increased vehicle operating costs
+Safety risks (vehicle stability, driver response)
+Higher long-term rehabilitation costs
+Effects beyond roadway surface (agricultural transport, travel time, post-harvest losses)
+Systematic process of monitoring, evaluating, maintaining, and rehabilitating roadways to ensure optimal performance throughout service life.
+Sunitha &amp; Babu (2012): Pavement-deterioration models for low-volume rural roads; considered pavement distress, shoulder condition, drainage features, cross-drainage structures, cross slope
+Han et al. (2023): Long-term maintenance planning under limited budgets; prioritize sections by condition and expected performance
+Basnet et al. (2023): Pavement management systems provide data-driven approaches for predicting deterioration and prioritizing interventions
+Ji et al. (2023): Effective management supports cost-efficient planning by enabling timely maintenance
+Vila (2019): FMR pavement condition affects farmers' travel time, travel speed, yield, net sales, post-harvest losses
+Fruelda et al. (2025): Roadway-condition assessment for identifying rural road sections requiring maintenance
+Cambodia study: Accelerated deterioration when traffic loading and environmental exposure exceed original design
+DPWH (2006): Emphasizes regular maintenance and timely rehabilitation
+AASHTO (2018): Pavement condition key in design, maintenance planning, asset management "Preventive maintenance and rehabilitation are more effective than delayed corrective actions." Lower lifecycle costs
+Extended infrastructure lifespan
+Reduced user costs (vehicle damage, delays)
+Improved safety outcomes Pavement rehabilitation should be based on actual condition and contributing factors — traffic loading, structural requirements, drainage, site conditions — rather than visible distress alone. <a data-href="Z - Pavement Structural Design vs Condition Assessment" href="20-zettels/z-pavement-structural-design-vs-condition-assessment.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Structural Design vs Condition Assessment</a>
+<br><a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Z - Traffic Characteristics Drive Design Decisions" href="20-zettels/z-traffic-characteristics-drive-design-decisions.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Traffic Characteristics Drive Design Decisions</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="Insight - Proactive vs Reactive Maintenance" href="30-insights/insight-proactive-vs-reactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Proactive vs Reactive Maintenance</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-pavement-deterioration-and-proactive-maintenance.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Pavement Deterioration and Proactive Maintenance.md</guid><pubDate>Mon, 28 Sep 2026 14:22:23 GMT</pubDate></item><item><title><![CDATA[Z - Multi-Hazard Assessment in Road Design]]></title><description><![CDATA[Roadway design must account for multiple natural hazards — seismic, volcanic, and hydro-meteorological — because the site's exposure profile directly influences pavement design, drainage requirements, slope protection, and overall infrastructure resilience.
+Ground Rupture: Site safe; nearest fault ~11.5 km; outside 5-m buffer
+Ground Shaking: Potential Intensity VIII; may cause pavement cracking, ground deformation
+Liquefaction: Safe; site-specific geotechnical investigation recommended
+Earthquake-Induced Landslide: Data being updated; geotechnical investigation recommended
+Tsunami: Safe Lahar: Safe; nearest volcano ~90.6 km
+Pyroclastic Flow: Safe Flood: High susceptibility (1–2 m flood height; &gt;3 days duration) — critical design consideration
+Rainfall-Induced Landslide: Cannot be disregarded; slope protection and drainage recommended
+Severe Wind: 117.1–220 kph (20-yr); 220.1–270 kph (500-yr)
+Storm Surge: Data being updated HazardHunterPH assessments (GeoRiskPH)
+Figure 1.2–1.12 show hazard maps
+Recommendations include: Site-specific geotechnical investigations
+Hydrological and hydraulic studies
+Slope protection and retaining structures
+Adequate drainage systems
+Regular inspection and maintenance High flood susceptibility → design must integrate adequate drainage, properly designed cross-drainage structures, appropriate road elevation
+Rainfall-induced landslide potential → slope protection, drainage, erosion control
+Severe wind → consider fallen trees/debris, roadside facilities
+Ground shaking → seismic resilience in pavement and structures
+Regular monitoring of updated hazard maps and advisories <a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="LN - Chapter 1" href="10-literature-notes/ln-chapter-1.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 1</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-multi-hazard-assessment-in-road-design.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Multi-Hazard Assessment in Road Design.md</guid><pubDate>Mon, 28 Sep 2026 14:22:19 GMT</pubDate></item><item><title><![CDATA[Z - Integrated Roadway Improvement Projects]]></title><description><![CDATA[Successful roadway improvement projects integrate pavement rehabilitation, drainage upgrades, safety measures, and accessibility improvements into a single coordinated framework — addressing multiple infrastructure concerns simultaneously rather than implementing isolated interventions. Interventions should be prioritized and site-specific, not uniform.
+Pavement improvement and structural design
+Roadway safety enhancements (signs, lighting, barriers)
+Drainage improvements
+Geometric design modifications
+Accessibility improvements
+Traffic-control devices
+Roadside protection Roadway safety, pavement condition, and drainage performance are interconnected
+Isolated interventions may not achieve sustainable outcomes
+Comprehensive approaches maximize infrastructure benefits
+Multidisciplinary strategies achieve more sustainable results
+Existing road may simultaneously experience multiple deficiencies Combine roadway rehabilitation and safety enhancements
+Address both operational performance and community needs
+Integrate safety, drainage, and infrastructure preservation
+Use standards-based interventions
+Prioritize according to actual conditions, roadway function, available resources
+Consider constructability, maintenance, economic feasibility Fruelda et al. (2025): Combined roadway-condition assessment and traffic analysis using GIS in Odiongan, Romblon
+Li et al. (2024): Sustainability constraints affecting rural-road infrastructure in China; economic, management, policy, public-participation, terrain-related constraints
+Han et al. (2023): Long-term maintenance-planning method under limited budgets
+Hasan et al. (2022): Rural-road planning and prioritization methodology using physical, economic, social criteria
+Argoty Burbano (2023): Technical-economic alternatives for rural-road rehabilitation
+Ikuabe et al. (2021): Sustainable rural-road infrastructure and rural development
+World Bank (2022): Successful programs integrate pavement rehabilitation, drainage upgrades, traffic safety, accessibility
+ADB (2021): Projects achieve greater long-term effectiveness when addressing operational performance and community needs
+WHO (2023): Infrastructure-based safety interventions reduce transportation-related risks
+PIARC (2019): Multiple safety elements most effective through coordinated engineering approach
+AASHTO (2018): Consider geometric design, pavement, traffic control, roadside safety, drainage as interconnected
+DA-BAFE (2024): FMR improvement projects should address safety, accessibility, drainage adequacy, long-term sustainability "Comprehensive and standards-based interventions contribute to safer, more reliable, and more sustainable transportation systems." Assessment considers: pavement condition and structural requirements, traffic characteristics and heavy-vehicle activity, roadway geometry, drainage-related conditions, traffic-control requirements, lighting, roadside safety, accessibility, constructability, maintenance, economic feasibility
+Purpose is not to reproduce historical project design but to determine appropriate improvements based on present physical and operational conditions
+Interventions prioritized according to identified deficiencies, technical requirements, site conditions, available resources
+No uniform treatments throughout entire segment <a data-href="Z - Roadway Safety as a Systems Problem" href="20-zettels/z-roadway-safety-as-a-systems-problem.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety as a Systems Problem</a>
+<br><a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+<br><a data-href="Z - Traffic Characteristics Drive Design Decisions" href="20-zettels/z-traffic-characteristics-drive-design-decisions.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Traffic Characteristics Drive Design Decisions</a>
+<br><a data-href="Insight - Infrastructure Deficiencies Compound" href="30-insights/insight-infrastructure-deficiencies-compound.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Infrastructure Deficiencies Compound</a>
+<br><a data-href="Insight - Site-Specific vs Uniform Treatments" href="30-insights/insight-site-specific-vs-uniform-treatments.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Site-Specific vs Uniform Treatments</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-integrated-roadway-improvement-projects.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Integrated Roadway Improvement Projects.md</guid><pubDate>Mon, 28 Sep 2026 14:22:17 GMT</pubDate></item><item><title><![CDATA[Z - Input-Process-Output Framework]]></title><description><![CDATA[The Input-Process-Output (IPO) Framework illustrates how community-based information, technical evaluation, and engineering standards are systematically transformed into a practical roadway improvement design. It is complemented by an Operational Framework that details the sequence of design activities.
+Community Needs Analysis (CNA) findings
+Existing roadway conditions
+Field observations and site assessment
+Survey responses and stakeholder consultations
+Traffic and vehicle classification data
+Historical project and geotechnical data
+Applicable engineering standards and related studies Data gathering and validation
+Site visits and field inspection
+Traffic and heavy-vehicle analysis
+Pavement condition and structural evaluation
+Roadway geometry and safety assessment
+Drainage and roadside condition assessment
+Identification and evaluation of improvement alternatives
+Engineering design and technical evaluation
+Quantity take-off and preliminary cost estimation
+Proposed Comprehensive Roadway Improvement Design:
+Pavement improvement and structural design
+Integrated drainage improvements
+Roadway geometry and safety improvements
+Traffic-control, lighting, and roadside safety devices
+Improved accessibility and roadway serviceability
+Quantity take-off and preliminary cost estimate
+Construction and maintenance considerations
+The Operational Framework presents the systematic sequence:
+Data Gathering → 2. Roadway Assessment → 3. Preliminary Roadway Design → 4. Structural Design → 5. Structural Analysis/Modeling → 6. Design Validation → 7. Final Drawings, Estimation &amp; Scheduling → 8. Project Output Pavement design: 200-mm PCCP proposed
+One-way slab design and analysis
+Load determination, combinations, moment/shear, reinforcement
+PCCP thickness verification (200 mm)
+Integrated 2D plans in AutoCAD
+3D roadway model
+BOQ, cost estimate, Gantt chart
+The framework demonstrates how:
+Community-based assessments
+Engineering evaluation
+Technical standards
+Infrastructure planning
+Structural analysis and design validation
+...contribute to the development of practical and sustainable roadway improvement solutions.
+<a data-href="Z - Community Needs Analysis as Assessment Tool" href="20-zettels/z-community-needs-analysis-as-assessment-tool.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Community Needs Analysis as Assessment Tool</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="Z - Complex Engineering Problems (ABET)" href="20-zettels/z-complex-engineering-problems-(abet).html" class="internal-link" target="_self" rel="noopener nofollow">Z - Complex Engineering Problems (ABET)</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-input-process-output-framework.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Input-Process-Output Framework.md</guid><pubDate>Mon, 28 Sep 2026 14:22:14 GMT</pubDate></item><item><title><![CDATA[Z - Farm-to-Market Roads as Rural Lifelines]]></title><description><![CDATA[Farm-to-Market Roads (FMRs) are not merely transportation infrastructure — they are lifelines that connect rural agricultural communities to economic opportunities, essential services, and broader society. Their condition directly influences agricultural productivity, travel time, and community mobility.FMRs facilitate the movement of:
+Agricultural products from farms to markets
+People to schools, healthcare facilities, and government services
+Goods and services into rural communities
+In the Philippines, FMRs play a significant role in:
+Supporting agricultural productivity
+Improving market accessibility
+Promoting rural development
+Reducing transportation costs
+Minimizing post-harvest losses Vila (2019): Philippine study — FMR pavement condition significantly affected agricultural yield, net sales, post-harvest losses, travel time, and travel speed in Camiling, Tarlac
+Fruelda et al. (2025): GIS-based assessment in Odiongan, Romblon; combined road-condition and traffic assessment for integrated transportation management
+DA-BAFE (2024): FMR development enhances agricultural competitiveness
+Porter (2014): Transportation contributes to economic growth AND improved access to education, healthcare, social services
+Starkey &amp; Hine (2014): Rural roads reduce travel time and costs
+World Bank (2022): Rural road investments improve connectivity, reduce spatial inequalities
+ADB (2021): Rural roads support regional connectivity, agricultural productivity, sustainable development
+International evidence: India (rural connectivity → household economic activities); Ethiopia (road access → agricultural commercialization) Benefits depend not just on existence of roads, but on their condition, safety, and long-term serviceability. Chambers (2017): Transportation investments most effective when infrastructure remains accessible, reliable, responsive
+Deterioration, drainage deficiencies, safety concerns reduce effectiveness and sustainability over time
+FMR should be evaluated by physical condition, transportation function, traffic characteristics, and ability to provide reliable access <a data-href="Z - Transportation Accessibility Enables Community Development" href="20-zettels/z-transportation-accessibility-enables-community-development.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Transportation Accessibility Enables Community Development</a>
+<br><a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+<br><a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+<br><a data-href="Z - Traffic Characteristics Drive Design Decisions" href="20-zettels/z-traffic-characteristics-drive-design-decisions.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Traffic Characteristics Drive Design Decisions</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-farm-to-market-roads-as-rural-lifelines.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Farm-to-Market Roads as Rural Lifelines.md</guid><pubDate>Mon, 28 Sep 2026 14:22:12 GMT</pubDate></item><item><title><![CDATA[Z - Drainage Systems Protect Infrastructure and Users]]></title><description><![CDATA[Drainage systems are integral components of roadway infrastructure — not supplementary elements — because they protect pavement integrity, ensure roadway safety, and build resilience against climate variability. Drainage performance depends not only on existence of facilities but also on design and maintenance.
+Collect, convey, and discharge surface runoff
+Prevent water accumulation on roadway surfaces
+Protect pavement structures from moisture-related damage
+Maintain safe and reliable transportation conditions
+Reduce erosion and flooding Flooding and water accumulation
+Pavement deterioration (moisture weakens layers, reduces structural capacity)
+Erosion and infrastructure damage
+Reduced roadway serviceability
+Increased safety risks (reduced tire-pavement friction)
+Higher maintenance requirements
+Sediment accumulation reduces drainage capacity Growing importance due to climate variability and extreme weather
+Infrastructure should be designed with resilience in mind
+Drainage systems essential for continued functionality during intense rainfall Iskandar et al.: Relationship between drainage condition and pavement performance using PCI analysis
+Echatu (2023): Rural-road drainage systems in Uganda; inadequate design, poor maintenance, flooding, topography, construction-related factors
+Essien et al. (2024): Hydrologic performance of highway filter drains; evaluate runoff and drainage capacity
+Jo &amp; Kim (2024): Road-surface runoff under different rainfall and slope conditions; roadway slope and rainfall influence runoff
+Roadside gutter systems research: Sediment accumulation and maintenance reduce drainage capacity
+Fletcher et al. (2021): Stormwater management protects infrastructure, improves long-term performance
+Basnet et al. (2023), Ji et al. (2023): Moisture-related damage major contributor to pavement deterioration
+PIARC (2019): Drainage critical roadway safety consideration
+World Bank (2022): Infrastructure should be designed with resilience
+ADB (2021): Integrate effective drainage facilities into rural transportation projects
+DPWH Highway Drainage Design Manual: Technical guidance
+DA-BAFE (2024): Drainage ensures year-round accessibility, improves roadway durability
+AASHTO (2018): Drainage key factor influencing pavement performance, longevity, safety "Drainage facilities are integral components of roadway systems rather than supplementary infrastructure elements." Drainage treated as integrated roadway component
+Consider: existing LGU drainage information, field observations, surface-runoff conditions, roadway cross slope, pavement condition, water-accumulation locations
+Potential interventions: Concrete gutters
+Curb-and-gutter provisions
+Localized drainage structures
+Improved runoff paths
+Other appropriate measures where warranted <a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+<br><a data-href="Z - Roadway Geometry Influences Safety and Drainage" href="20-zettels/z-roadway-geometry-influences-safety-and-drainage.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Geometry Influences Safety and Drainage</a>
+<br><a data-href="Z - Multi-Hazard Assessment in Road Design" href="20-zettels/z-multi-hazard-assessment-in-road-design.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Multi-Hazard Assessment in Road Design</a>
+<br><a data-href="Insight - Safety and Drainage Are Interconnected" href="30-insights/insight-safety-and-drainage-are-interconnected.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Safety and Drainage Are Interconnected</a>
+<br><a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-drainage-systems-protect-infrastructure-and-users.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Drainage Systems Protect Infrastructure and Users.md</guid><pubDate>Mon, 28 Sep 2026 14:22:08 GMT</pubDate></item><item><title><![CDATA[Z - Complex Engineering Problems (ABET)]]></title><description><![CDATA[A complex engineering problem, as defined by ABET, involves multiple interrelated technical considerations, several component problems, and potentially conflicting requirements without a single obvious solution. The Phase 1 FMR improvement project demonstrates these characteristics.
+Involves multiple interrelated technical considerations
+Several component problems
+Potentially conflicting safety, accessibility, constructability, maintenance, and economic requirements
+No single obvious solution
+Requires integration of different civil engineering considerations
+Requires engineering analysis and design decision-making Pavement deterioration
+Roadway safety deficiencies
+Limited signage and lighting
+Roadway geometric concerns
+Roadside hazards
+Accessibility
+Drainage-related conditions
+Varying conditions along 850-m segment
+Traffic characteristics
+Applicable engineering standards
+Constructability
+Maintenance
+Economic feasibility Safety vs. cost
+Accessibility vs. constructability
+Durability vs. sustainability
+Short-term vs. long-term benefits
+Innovation vs. simplicity ABET definition of complex engineering problem
+Project scope demonstrates multiple component problems
+Design must integrate: pavement, safety, geometry, drainage, lighting, traffic-control, roadside protection, accessibility
+Requires evaluation of alternatives using multi-criteria decision analysis (MCDA), cost-benefit analysis, life-cycle costing Justifies the comprehensive, integrated approach
+Supports use of IPO and Operational Frameworks
+Requires design validation and verification
+Necessitates consideration of constructability, maintenance, economic feasibility
+Forms basis for Chapter 3 (Design Requirements, Evaluation of Alternatives, Test Plan, Project Development, User Evaluation, Project Management) <a data-href="Z - Input-Process-Output Framework" href="20-zettels/z-input-process-output-framework.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Input-Process-Output Framework</a>
+<br><a data-href="Z - Community Needs Analysis as Assessment Tool" href="20-zettels/z-community-needs-analysis-as-assessment-tool.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Community Needs Analysis as Assessment Tool</a>
+<br><a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a>
+<br><a data-href="LN - Chapter 1" href="10-literature-notes/ln-chapter-1.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 1</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-complex-engineering-problems-(abet).html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Complex Engineering Problems (ABET).md</guid><pubDate>Mon, 28 Sep 2026 14:22:05 GMT</pubDate></item><item><title><![CDATA[Z - Community Needs Analysis as Assessment Tool]]></title><description><![CDATA[Community Needs Analysis (CNA) is a systematic, participatory process that captures local knowledge and lived experiences to identify infrastructure deficiencies and prioritize improvement needs — complementing technical engineering assessments and providing justification for design decisions.A systematic process used to identify and assess transportation-related concerns, roadway deficiencies, and infrastructure needs of residents within a study area.
+Stakeholder consultations
+Surveys (371 respondents via Cochran's formula, 95% confidence)
+Interviews
+Field observations
+Hazard identification activities
+Engineering assessments Captures concerns not visible in official records
+Provides community perspective on safety and accessibility
+Identifies priorities based on user experience
+Supports development of responsive, practical solutions
+Complements technical assessments with local knowledge
+Provides justification for design scope and interventions Due to limited formal accident records, roadway safety concerns were assessed through community surveys, interviews, consultations, field observations, hazard identification, and engineering assessments. Adequate drainage integration
+Appropriate roadway slope and cross slope
+Adequate roadway lighting
+Regulatory and warning road signs
+Roadway curve and superelevation improvements
+Roadside crash barriers and protective features
+Adequate roadway width
+Pavement repair and rehabilitation
+Comprehensive roadway improvement Community-based approaches, field observations, hazard identification, and engineering assessments are valuable tools for understanding existing roadway conditions and determining infrastructure priorities. <a data-href="Z - Input-Process-Output Framework" href="20-zettels/z-input-process-output-framework.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Input-Process-Output Framework</a>
+<br><a data-href="Z - Complex Engineering Problems (ABET)" href="20-zettels/z-complex-engineering-problems-(abet).html" class="internal-link" target="_self" rel="noopener nofollow">Z - Complex Engineering Problems (ABET)</a>
+<br><a data-href="Insight - Community Voice Shapes Engineering Solutions" href="30-insights/insight-community-voice-shapes-engineering-solutions.html" class="internal-link" target="_self" rel="noopener nofollow">Insight - Community Voice Shapes Engineering Solutions</a>
+<br><a data-href="LN - Chapter 1" href="10-literature-notes/ln-chapter-1.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 1</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>20-zettels/z-community-needs-analysis-as-assessment-tool.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/20 Zettels/Z - Community Needs Analysis as Assessment Tool.md</guid><pubDate>Mon, 28 Sep 2026 14:22:02 GMT</pubDate></item><item><title><![CDATA[LN - Chapter 1: Introduction and Project Overview (Updated)]]></title><description><![CDATA[Better Roads for the Community: Proposed Roadway Improvement Design for the Phase 1 Farm-to-Market Road in Barangay San Isidro, Catanauan, Quezon
+"How can the existing farm-to-market road in Barangay San Isidro be improved to ensure safer, more efficient, and sustainable transportation for the community?" Location: Barangay San Isidro, Catanauan, Quezon
+Population: 4,316 residents | 1,084 households | 1,173 families
+Primary Livelihood: Agriculture (farming and copra production)
+Road Length: 12.36 km (Phase 1 FMR); detailed design on 850 m (Sta. 0+000 to Sta. 0+850)
+CNA Respondents: 371 (Cochran's formula, 95% confidence level)
+Implementing Project: PRDP Sub-Project No. PRDP-ID-RO4A-041-CAT-001-2017
+Existing Pavement: 150-mm PCCP
+Proposed Pavement: 200-mm PCCP (to be verified by structural analysis) Figure 1.1 shows Google Earth map of the Phase 1 FMR
+Coordinates identify exact location and extent
+12.36 km total; detailed design area is Sta. 0+000 to Sta. 0+850 The site is generally safe from most seismic and volcanic hazards but has high flood susceptibility and severe wind exposure. Design must integrate drainage, slope protection, and climate-resilient measures. Figure 1.13 shows Catanauan Land Use Map
+Predominantly agricultural with residential, commercial, institutional, transportation, and open spaces
+Serves as planning tool for infrastructure development compatibility Rural agricultural community
+Livelihood: farming, copra production, trading of agricultural products
+San Isidro–Sta. Maria Dao FMR (Phase 1) extends ~12.36 km
+Provides access to schools, markets, healthcare, community services Adequate drainage integration
+Appropriate roadway slope and cross slope
+Adequate roadway lighting
+Regulatory and warning road signs
+Roadway curve and superelevation improvements
+Roadside crash barriers and protective features
+Adequate roadway width
+Pavement repair and rehabilitation
+Comprehensive roadway improvement (integrated design)
+The project demonstrates characteristics of a complex engineering problem:
+Involves multiple interrelated technical considerations
+Several component problems
+Potentially conflicting safety, accessibility, constructability, maintenance, and economic requirements
+No single obvious solution
+Requires integration of different civil engineering considerations, engineering analysis, and design decision-making Pavement deterioration
+Roadway safety deficiencies
+Limited signage and lighting
+Roadway geometric concerns
+Roadside hazards
+Accessibility
+Drainage-related conditions
+Varying conditions along 850-m segment
+Traffic characteristics
+Applicable engineering standards
+Constructability, maintenance, economic feasibility
+Develop a safe, accessible, technically appropriate, and cost-efficient Comprehensive Roadway Improvement Design for the selected 850-m segment from Sta. 0+000 to Sta. 0+850 of the Phase 1 FMR, in accordance with applicable Philippine engineering codes, standards, and guidelines.
+Assess existing condition of selected segment and identify deficiencies (pavement, safety, geometric, accessibility, traffic control, lighting, roadside, drainage)
+Develop and evaluate appropriate roadway improvement alternatives
+Determine appropriate improvement solution based on technical, safety, accessibility, constructability, maintenance, and economic considerations
+Prepare proposed Comprehensive Roadway Improvement Design (engineering plans, pavement design, quantity take-off, preliminary cost estimate, construction and implementation considerations) LGUs — Technical reference for planning, evaluating, prioritizing, implementing roadway improvement projects
+Barangay Officials — Engineering-based information for infrastructure planning, project proposals, maintenance
+Community Residents &amp; Road Users — Safer, more efficient travel conditions
+Engineers &amp; Infrastructure Planners — Reference for similar rural settings
+Future Researchers — Basis for further studies Assessment and design for 850-m segment (Sta. 0+000 to Sta. 0+850)
+12.36-km FMR considered as broader study context
+Pavement condition and structural requirements
+Roadway geometry and critical locations
+Available traffic information and vehicle characteristics
+Traffic-control devices and requirements
+Roadway lighting
+Roadside safety and protection
+Accessibility
+Drainage-related conditions
+Development and evaluation of improvement alternatives
+Pavement design, engineering plans, quantity take-off, cost estimate, construction considerations Complete geometric redesign or realignment
+New geotechnical investigation, field soil testing, independent soil characterization
+Comprehensive hydrologic or hydraulic analysis
+Current AADT or traffic growth rate (unless sufficient data)
+Political/administrative decisions, funding allocation, procurement, maintenance-fund management
+Actual construction, contractor selection, procurement, post-construction monitoring
+Remaining portions of 12.36-km roadway (beyond broader context) Due to limited formal accident records, roadway safety concerns were assessed through community surveys, interviews, field observations, hazard identification, and engineering assessments rather than official accident statistics. <a data-href="LN - Chapter 2" href="10-literature-notes/ln-chapter-2.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 2</a>
+<br><a data-href="Z - Farm-to-Market Roads as Rural Lifelines" href="20-zettels/z-farm-to-market-roads-as-rural-lifelines.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Farm-to-Market Roads as Rural Lifelines</a>
+<br><a data-href="Z - Community Needs Analysis as Assessment Tool" href="20-zettels/z-community-needs-analysis-as-assessment-tool.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Community Needs Analysis as Assessment Tool</a>
+<br><a data-href="Z - Multi-Hazard Assessment in Road Design" href="20-zettels/z-multi-hazard-assessment-in-road-design.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Multi-Hazard Assessment in Road Design</a>
+<br><a data-href="Z - Complex Engineering Problems (ABET)" href="20-zettels/z-complex-engineering-problems-(abet).html" class="internal-link" target="_self" rel="noopener nofollow">Z - Complex Engineering Problems (ABET)</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+]]></description><link>10-literature-notes/ln-chapter-1.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/10 Literature Notes/LN - Chapter 1.md</guid><pubDate>Mon, 28 Sep 2026 14:21:58 GMT</pubDate></item><item><title><![CDATA[LN - Chapter 2: Review of Related Literature (Updated)]]></title><description><![CDATA[The literature review establishes theoretical, technical, and conceptual foundations by examining local and international studies, engineering standards, government guidelines, and implemented projects (prior art) related to:
+Farm-to-Market Roads
+Roadway safety
+Pavement deterioration, maintenance, and structural design
+Traffic characteristics
+Roadway geometry
+Roadway safety devices (signs, markings, lighting, barriers)
+Drainage systems
+Transportation accessibility
+Comprehensive roadway improvement and infrastructure sustainability FMRs connect agricultural production areas with communities, markets, essential services
+Vila (2019): Philippine study — FMR pavement condition significantly affected agricultural yield, net sales, post-harvest losses, travel time, travel speed in Camiling, Tarlac
+Fruelda et al. (2025): GIS-based assessment of road infrastructure and traffic dynamics in Odiongan, Romblon; identified 12 barangays with poor road conditions; traffic dominated by motorcycles/tricycles
+International evidence: India (rural connectivity → household economic activities, agricultural technology adoption); Ethiopia (road access → agricultural commercialization)
+DA-BAFE (2024), Porter (2014), Starkey &amp; Hine (2014), World Bank (2022), ADB (2021): Rural infrastructure supports mobility, livelihoods, access
+Key point: FMR should be evaluated by physical condition, transportation function, traffic characteristics, and ability to provide reliable access — not just existence of road
+→ <a data-href="Z - Farm-to-Market Roads as Rural Lifelines" href="20-zettels/z-farm-to-market-roads-as-rural-lifelines.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Farm-to-Market Roads as Rural Lifelines</a>
+Dhakal &amp; Al-Kaisy (2024): Approach for identifying safety-improvement locations on rural highways without extensive crash-history data using traffic volume, geometric characteristics, roadside features
+Khan et al. (2023): Geometric design consistency and run-off-road crashes on two-lane rural highways
+Shallam et al. (2022): Geometric consistency considering different vehicle types (passenger cars and trucks)
+Goyani et al. (2024): Geometric design consistency using crash-severity information
+Motalib et al. (2024): Philippine study — Sagonsongan Diversion Road, Marawi City; examined horizontal/vertical alignment, superelevation; identified inconsistencies with safety requirements; proposed corrective measures
+Kučina et al. (2023): Signs and pavement markings on horizontal curves in rural roads
+WHO (2023), Mcllroy et al. (2022), Montella (2005), PIARC (2019), AASHTO (2018): Systems-based approach; safety assessment through actual roadway conditions
+<br>→ <a data-href="Z - Roadway Safety as a Systems Problem" href="20-zettels/z-roadway-safety-as-a-systems-problem.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety as a Systems Problem</a>
+Sunitha &amp; Babu (2012): Pavement-deterioration models for low-volume rural roads; considered pavement distress, shoulder condition, drainage features, cross-drainage structures, cross slope
+Han et al. (2023): Long-term maintenance planning for rural roads under limited budgets (280-km road network, Haimen City, China); prioritize sections by condition and expected performance
+Vila (2019): FMR pavement condition affects farmers' travel time, travel speed, yield, net sales, post-harvest losses
+Fruelda et al. (2025): Roadway-condition assessment for identifying rural road sections requiring maintenance/rehabilitation
+Cambodia study: Rural-road pavement alternatives under heavy truck traffic and rainfall; accelerated deterioration when traffic/environmental exposure exceeds original design
+Basnet et al. (2023), Ji et al. (2023), AASHTO (2018): Traffic loading, environmental exposure, materials, drainage as factors
+<br>→ <a data-href="Z - Pavement Deterioration and Proactive Maintenance" href="20-zettels/z-pavement-deterioration-and-proactive-maintenance.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Deterioration and Proactive Maintenance</a>
+Fruelda et al. (2025): Classified traffic information useful for evaluating rural roadway performance; differences between peak/off-peak; motorcycles/tricycles large proportion
+Zhao et al. (2022): Relationship between traffic loading and pavement performance using truck and axle-load information
+Rys &amp; Burnos (2022): Axle-load spectra for pavement design; total traffic volume alone may not adequately represent pavement demand
+Ordaz et al. (2024): Structural deterioration of low-volume pavement under increased traffic loading; reassess when traffic conditions change
+Popoola et al. (2018): Traffic volume, heavy-goods-vehicle proportion, roadway geometry, shoulder conditions, traffic signs associated with roadway safety
+AASHTO (2018), FHWA: Traffic demand and vehicle characteristics as important inputs; distinguish volume, classification, and weight information
+<br>→ <a data-href="Z - Traffic Characteristics Drive Design Decisions" href="20-zettels/z-traffic-characteristics-drive-design-decisions.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Traffic Characteristics Drive Design Decisions</a>
+Philippine study on rehabilitation of concrete roads: Field trials at 5 sites (~9.5 km); developed rehabilitation guidance based on observed distress
+Muslimah, Subagio, &amp; Frazila (2023): Structural condition of rigid pavement in Bandung, Indonesia using AASHTO 1993 and MDP 2017; different procedures produce different rehabilitation requirements
+Ordaz et al. (2024): Structural deterioration under increased traffic loading
+Zhao et al. (2022), Rys &amp; Burnos (2022): Axle-load characteristics influence pavement deterioration
+Nondestructive pavement evaluation: Structural-response measurements for determining stiffness and capacity
+DPWH standards: Minimum pavement requirements; higher thicknesses should be verified through pavement-design analysis
+Key point: Existing 150-mm PCCP should not automatically be assumed adequate under current conditions; proposed 200-mm PCCP must be supported by structural calculations
+<br>→ <a data-href="Z - Pavement Structural Design vs Condition Assessment" href="20-zettels/z-pavement-structural-design-vs-condition-assessment.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Pavement Structural Design vs Condition Assessment</a>
+Motalib et al. (2024): Philippine study — Sagonsongan Diversion Road, Marawi City; field surveying and AutoCAD Civil 3D analysis
+Khan et al. (2023), Shallam et al. (2022), Goyani et al. (2024): Geometric consistency and crash risk on rural two-lane highways
+Popoola et al. (2018): Curve radius, lane width, shoulder characteristics, access roads, traffic volume, heavy-goods-vehicle proportion, traffic signs associated with safety
+Dhakal &amp; Al-Kaisy (2024): Traffic volume, geometric features, roadside characteristics for identifying safety-improvement locations
+Chen et al. (2022), Montella (2005), PIARC (2019), AASHTO (2018): Geometric characteristics important components of roadway safety
+Key point: Project does not presume complete realignment; localized interventions may include geometric correction, cross slope/superelevation improvement, sight-distance measures, curve warning signs, chevron markers, pavement markings, roadside protection
+<br>→ <a data-href="Z - Roadway Geometry Influences Safety and Drainage" href="20-zettels/z-roadway-geometry-influences-safety-and-drainage.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Geometry Influences Safety and Drainage</a>
+Kučina et al. (2023): Curves important locations for safety treatments
+Elvik (2009): Road-lighting effects using accident data; differences in injury-accident risk between lit and unlit roads
+Active road studs research: Reflective/active delineation devices improve driver confidence and guidance at night
+Bermudo &amp; Rabacal: Philippine study — traffic signs and road-user knowledge/practices in Camaligan, Camarines Sur
+Roadside safety research: Appropriate roadside protection reduces severity of run-off-road events when warranted
+Robielos &amp; Lin (2022), Bullough et al. (2013), Plainis et al. (2020), Calderón Ramírez et al. (2023): Supporting research
+DPWH standards: Criteria for road signs, pavement markings, delineation, streetlighting, roadside barriers
+Key point: Site-specific and warranted safety measures; continuous lighting or uniform installation not automatically assumed
+<br>→ <a data-href="Z - Roadway Safety Devices Save Lives" href="20-zettels/z-roadway-safety-devices-save-lives.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Roadway Safety Devices Save Lives</a>
+Iskandar et al.: Relationship between drainage condition and pavement performance using PCI analysis
+Echatu (2023): Rural-road drainage systems in Katakwi District, Uganda; inadequate design, poor maintenance, flooding, topography, construction-related factors
+Essien et al. (2024): Hydrologic performance of highway filter drains; evaluate runoff and drainage capacity
+Jo &amp; Kim (2024): Road-surface runoff under different rainfall and slope conditions; roadway slope and rainfall influence runoff behavior
+Roadside gutter systems research: Sediment accumulation and maintenance conditions can reduce drainage capacity
+Basnet et al. (2023), Ji et al. (2023), Fletcher et al. (2021), PIARC (2019), AASHTO (2018), DPWH, DA-BAFE (2024): Supporting literature
+Key point: Drainage treated as integrated roadway component; potential interventions include concrete gutters, curb-and-gutter, localized structures, improved runoff paths
+<br>→ <a data-href="Z - Drainage Systems Protect Infrastructure and Users" href="20-zettels/z-drainage-systems-protect-infrastructure-and-users.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Drainage Systems Protect Infrastructure and Users</a>
+Vila (2019): FMR pavement condition affects travel time, travel speed, agricultural yield, net sales, post-harvest losses
+Kamaludin &amp; Qibthiyyah (2022): Village-road quality and accessibility in Indonesia; improvements associated with rural economic transformation
+Rong &amp; Ouyang (2024): Rural road accessibility and healthcare-seeking behavior in China; improvements increased treatment at higher-level hospitals
+Mckonnen &amp; Alamirew (2023): Rural road access and agricultural commercialization in Ethiopia
+Geurs &amp; van Wee (2004), Lucas (2012), Porter (2014), Starkey &amp; Hine (2014), World Bank (2022), ADB (2021): Theoretical basis
+Key point: Accessibility treated as outcome of adequately functioning roadway, not separate facility
+<br>→ <a data-href="Z - Transportation Accessibility Enables Community Development" href="20-zettels/z-transportation-accessibility-enables-community-development.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Transportation Accessibility Enables Community Development</a>
+Fruelda et al. (2025): Combined roadway-condition assessment and traffic analysis using GIS in Odiongan, Romblon
+Li et al. (2024): Sustainability constraints affecting rural-road infrastructure in China; economic, management, policy, public-participation, terrain-related constraints
+Han et al. (2023): Long-term maintenance-planning method under limited budgets
+Hasan et al. (2022): Rural-road planning and prioritization methodology using physical, economic, social criteria
+Argoty Burbano (2023): Technical-economic alternatives for rural-road rehabilitation
+Ikuabe et al. (2021): Sustainable rural-road infrastructure and rural development
+Kamaludin &amp; Qibthiyyah (2022): Village-road quality improvements associated with rural economic transformation
+AASHTO (2018), PIARC (2019), WHO (2023), DPWH standards: Integrated perspective
+Key point: Interventions prioritized according to identified deficiencies, technical requirements, site conditions, available resources — not uniform treatments
+<br>→ <a data-href="Z - Integrated Roadway Improvement Projects" href="20-zettels/z-integrated-roadway-improvement-projects.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Integrated Roadway Improvement Projects</a><br>→ <a data-href="Z - Input-Process-Output Framework" href="20-zettels/z-input-process-output-framework.html" class="internal-link" target="_self" rel="noopener nofollow">Z - Input-Process-Output Framework</a>The Operational Framework presents systematic sequence:
+Data Gathering: CNA, site/field assessment, traffic survey, existing roadway/drainage data, historical project records, codes and standards review
+Roadway Assessment: Pavement condition, traffic analysis, geometry, drainage, road safety, identification of critical locations
+Preliminary Roadway Design: Pavement design (200-mm PCCP proposed), roadway/geometric improvements, integrated drainage, road safety/traffic-control, roadside/lighting
+Structural Design: Design criteria, loads, one-way slab design, slab thickness, reinforcement, serviceability, pavement structural design (traffic/vehicle loading, PCCP thickness verification)
+Structural Analysis/Modeling: One-way slab analysis, load determination, load combinations, structural analysis, moment/shear, reinforcement requirements, pavement structural evaluation
+Design Validation: Verify one-way slab (strength, serviceability, reinforcement), verify pavement design (structural requirements, 200-mm PCCP adequacy), check compatibility, revise/finalize
+Final Drawings, Estimation &amp; Scheduling: Integrated 2D plans in AutoCAD (roadway plan/profile, typical cross-sections, drainage, road safety/traffic-control, other details), 3D roadway model, quantity take-off, cost estimate, BOQ, project scheduling and Gantt chart
+Project Output: Comprehensive Roadway Improvement Design (Sta. 0+000 to Sta. 0+850) FMRs critical for agricultural productivity, economic development, community connectivity
+Roadway performance influenced by interrelated components: pavement, traffic, geometry, drainage, safety devices, lighting, accessibility
+Deficiencies negatively affect safety, efficiency, accessibility, serviceability
+Preventive maintenance and effective drainage preserve roadway integrity
+Pavement structural design differs from condition assessment; must consider traffic loading, existing structure, subgrade, drainage
+Traffic characterization (classified data, heavy vehicles) essential for pavement and geometric design
+Community-based approaches and engineering assessments valuable for identifying concerns
+Integrated, site-specific, standards-based approach needed — not uniform treatments
+Sustainability depends on planning, management, resources, and site conditions <br><a data-href="LN - Chapter 1" href="10-literature-notes/ln-chapter-1.html" class="internal-link" target="_self" rel="noopener nofollow">LN - Chapter 1</a>
+<br><a data-href="00 - MOC - Chapter 1 &amp; 2" href="00-moc-chapter-1-&amp;-2.html" class="internal-link" target="_self" rel="noopener nofollow">00 - MOC - Chapter 1 &amp; 2</a>
+All Zettels linked above
+]]></description><link>10-literature-notes/ln-chapter-2.html</link><guid isPermaLink="false">05 - Research Paper/CDP2 Paper/Mock 1/10 Literature Notes/LN - Chapter 2.md</guid><pubDate>Mon, 28 Sep 2026 14:21:55 GMT</pubDate></item></channel></rss>
